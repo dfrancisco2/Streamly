@@ -38,7 +38,8 @@ h4 {
 #footer,
 a,
 h4,
-.container {
+.container,
+#nav a {
     color: white;
 }
 
